@@ -1,0 +1,10 @@
+
+# Instalação:
+
+npm install express prisma @prisma/client sqlite3 jsonwebtoken bcryptjs multer
+
+# Executar o servidor: 
+
+npm run dev
+
+ 
